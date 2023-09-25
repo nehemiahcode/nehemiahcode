@@ -1,7 +1,7 @@
 ![MasterHead](https://images.pexels.com/photos/2312369/pexels-photo-2312369.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 <p align="center"> <a href="https://twitter.com/codehubby" target="blank"><img src="https://img.shields.io/twitter/follow/codehubby?logo=twitter&style=for-the-badge" alt="codehubby" /></a> </p>
 
-<h3 align="center" color="white" font-size=10px">My core values are a passion for contributing value and seeing results from my efforts. I also enjoy helping others out and thus improve my skills.</h3>
+<h3 align="center" color="white" style"font-size:10px">My core values are a passion for contributing value and seeing results from my efforts. I also enjoy helping others out and thus improve my skills.</h3>
 
 
 
